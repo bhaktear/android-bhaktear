@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="options_division">
+        <item>Choose Division</item>
+        <item>Dhaka</item>
+        <item>Chattogram</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Barishal</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>Mymensingh</item>
+    </string-array>
+    <string name="textView">
+        Md. Bhaktear Uddin Ahmed \n
+        Software Developer
+    </string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+</resources>
