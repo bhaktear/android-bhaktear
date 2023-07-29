@@ -25,8 +25,15 @@
             android:name=".Assignment4"
             android:exported="false" />
         <activity
+            android:name=".ResultActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".Assignment3"
+            android:exported="false" />
+        <activity
             android:name=".Assignment2"
             android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
